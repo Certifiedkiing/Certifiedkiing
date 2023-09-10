@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maridadi Thierry
 - 👀 I’m interested in Software engineering
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning how to adapt to new things around me
+- 💞️ I’m looking to collaborate on something cool
 - 📫 How to reach me ...
 
 <!---
